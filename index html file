@@ -1,0 +1,24 @@
+</div>
+
+</section>
+
+<!-- Contact Section -->
+<section id="contact" class="contact section">
+<h2>Contact Me</h2>
+<form class="contact-form" action="mailto:youremail@example.com" method="post" enctype="text/plain">
+<input type="text" name="name" placeholder="Your Name" required>
+<input type="email" name="email" placeholder="Your Email" required>
+<textarea name="message" placeholder="Your Message" rows="6" required></textarea>
+<input type="submit" value="Send Message">
+</form>
+</section>
+
+</div>
+
+<!-- Footer Section -->
+<footer>
+<p>&copy; 2024 Farai Gosho. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
